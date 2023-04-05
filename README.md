@@ -1,2 +1,2 @@
-<h1 align="center">budget-allocation-application</h1>
+<h1 align="center">Budget Allocation Application</h1>
 <img src="budgetallocation.png" alt="Budget Allocation Application"/>
